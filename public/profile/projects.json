@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image" : "images/projects/weed_detection_app_sc.png",
             "title": "Weed Plant Detection Mobile APP",
             "bodyText": "- Made an android application that detects unwanted weed plants in agriculture \n - Used various methods to make the deep learning models mobile-friendly  ",
             "links": [
